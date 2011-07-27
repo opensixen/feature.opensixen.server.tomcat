@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="feature.opensixen.server.tomcat"
-      label="Tomcat"
+      label="Application Server Tomcat"
       version="1.0.0.qualifier">
 
-   <description url="http://www.example.com/description">
-      [Enter Feature Description here.]
+   <description url="http://www.opensixen.org">
+      Tomcat bundle for Opensixen Server
    </description>
 
    <copyright url="http://www.example.com/copyright">
